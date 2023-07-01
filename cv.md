@@ -19,7 +19,7 @@ Studied the basics of HTML/CSS and JavaScript
 - C++, Qt
 - JavaScript
 
-***Contact me at**  
+**Contact me at**  
 +375 (29) 875-05-25  
 <daryaglova@gmail.com>  
 <https://github.com/DariaGlovatskaya>  
